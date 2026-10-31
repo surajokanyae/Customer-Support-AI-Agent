@@ -164,6 +164,3 @@ Running this agent incurs AWS charges. When you finish, delete the Runtime deplo
 
 ---
 
-## License
-
-Add a license of your choice (for example MIT) before publishing.
